@@ -10441,6 +10441,60 @@ tc_floor/concrete5
 ( 291.0680078215 1206.0191885674 89 ) ( 291.0680078215 1206.0191885674 200 ) ( 290.9319029887 1167.0194239448 89 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
 ( 295.0679836802 1206.0052290974 89 ) ( 302.0679414329 1205.9808000248 89 ) ( 295.0679836802 1206.0052290974 200 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
 }
+// brush 1154
+{
+( 276.9056182343 1181.3458305543 378 ) ( 277.0294221336 1188.3447363727 378 ) ( 315.8995220797 1180.6560659725 378 ) common/caulk 34 0 0 0.5 0.5 0 0 0
+( 276.9056182343 1181.3458305543 378 ) ( 315.8995220797 1180.6560659725 378 ) ( 276.9056182343 1181.3458305543 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 276.9056182343 1181.3458305543 378 ) ( 276.9056182343 1181.3458305543 267 ) ( 277.0294221336 1188.3447363727 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+( 302.0255143423 1187.9025795895 373 ) ( 263.0316104968 1188.5923441713 373 ) ( 301.901710443 1180.9036737711 373 ) common/lights_5 29.0908203125 21.3333435059 90 0.171875 1.21875 0 0 0
+( 316.0940710644 1191.6543465442 267 ) ( 316.0940710644 1191.6543465442 378 ) ( 277.1001672189 1192.3441111261 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 316.0233259791 1187.6549717908 267 ) ( 315.8995220797 1180.6560659725 267 ) ( 316.0233259791 1187.6549717908 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+}
+// brush 1155
+{
+( 481.9056182343 1181.3458305543 378 ) ( 482.0294221336 1188.3447363727 378 ) ( 520.8995220797 1180.6560659725 378 ) common/caulk 34 0 0 0.5 0.5 0 0 0
+( 481.9056182343 1181.3458305543 378 ) ( 520.8995220797 1180.6560659725 378 ) ( 481.9056182343 1181.3458305543 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 481.9056182343 1181.3458305543 378 ) ( 481.9056182343 1181.3458305543 267 ) ( 482.0294221336 1188.3447363727 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+( 507.0255143423 1187.9025795895 373 ) ( 468.0316104968 1188.5923441713 373 ) ( 506.901710443 1180.9036737711 373 ) common/lights_5 29.0908203125 21.3333435059 90 0.171875 1.21875 0 0 0
+( 521.0940710644 1191.6543465442 267 ) ( 521.0940710644 1191.6543465442 378 ) ( 482.1001672189 1192.3441111261 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 521.0233259791 1187.6549717908 267 ) ( 520.8995220797 1180.6560659725 267 ) ( 521.0233259791 1187.6549717908 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+}
+// brush 1156
+{
+( 481.9056182343 1342.3458305543 378 ) ( 482.0294221336 1349.3447363727 378 ) ( 520.8995220797 1341.6560659725 378 ) common/caulk 34 0 0 0.5 0.5 0 0 0
+( 481.9056182343 1342.3458305543 378 ) ( 520.8995220797 1341.6560659725 378 ) ( 481.9056182343 1342.3458305543 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 481.9056182343 1342.3458305543 378 ) ( 481.9056182343 1342.3458305543 267 ) ( 482.0294221336 1349.3447363727 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+( 507.0255143423 1348.9025795895 373 ) ( 468.0316104968 1349.5923441713 373 ) ( 506.901710443 1341.9036737711 373 ) common/lights_5 29.0908203125 21.3333435059 90 0.171875 1.21875 0 0 0
+( 521.0940710644 1352.6543465442 267 ) ( 521.0940710644 1352.6543465442 378 ) ( 482.1001672189 1353.3441111261 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 521.0233259791 1348.6549717908 267 ) ( 520.8995220797 1341.6560659725 267 ) ( 521.0233259791 1348.6549717908 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+}
+// brush 1157
+{
+( 481.9056182343 1503.3458305543 378 ) ( 482.0294221336 1510.3447363727 378 ) ( 520.8995220797 1502.6560659725 378 ) common/caulk 34 0 0 0.5 0.5 0 0 0
+( 481.9056182343 1503.3458305543 378 ) ( 520.8995220797 1502.6560659725 378 ) ( 481.9056182343 1503.3458305543 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 481.9056182343 1503.3458305543 378 ) ( 481.9056182343 1503.3458305543 267 ) ( 482.0294221336 1510.3447363727 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+( 507.0255143423 1509.9025795895 373 ) ( 468.0316104968 1510.5923441713 373 ) ( 506.901710443 1502.9036737711 373 ) common/lights_5 29.0908203125 21.3333435059 90 0.171875 1.21875 0 0 0
+( 521.0940710644 1513.6543465442 267 ) ( 521.0940710644 1513.6543465442 378 ) ( 482.1001672189 1514.3441111261 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 521.0233259791 1509.6549717908 267 ) ( 520.8995220797 1502.6560659725 267 ) ( 521.0233259791 1509.6549717908 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+}
+// brush 1158
+{
+( 481.9056182343 1664.3458305543 378 ) ( 482.0294221336 1671.3447363727 378 ) ( 520.8995220797 1663.6560659725 378 ) common/caulk 34 0 0 0.5 0.5 0 0 0
+( 481.9056182343 1664.3458305543 378 ) ( 520.8995220797 1663.6560659725 378 ) ( 481.9056182343 1664.3458305543 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 481.9056182343 1664.3458305543 378 ) ( 481.9056182343 1664.3458305543 267 ) ( 482.0294221336 1671.3447363727 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+( 507.0255143423 1670.9025795895 373 ) ( 468.0316104968 1671.5923441713 373 ) ( 506.901710443 1663.9036737711 373 ) common/lights_5 29.0908203125 21.3333435059 90 0.171875 1.21875 0 0 0
+( 521.0940710644 1674.6543465442 267 ) ( 521.0940710644 1674.6543465442 378 ) ( 482.1001672189 1675.3441111261 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 521.0233259791 1670.6549717908 267 ) ( 520.8995220797 1663.6560659725 267 ) ( 521.0233259791 1670.6549717908 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+}
+// brush 1159
+{
+( 481.9056182343 1824.3458305543 378 ) ( 482.0294221336 1831.3447363727 378 ) ( 520.8995220797 1823.6560659725 378 ) common/caulk 34 0 0 0.5 0.5 0 0 0
+( 481.9056182343 1824.3458305543 378 ) ( 520.8995220797 1823.6560659725 378 ) ( 481.9056182343 1824.3458305543 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 481.9056182343 1824.3458305543 378 ) ( 481.9056182343 1824.3458305543 267 ) ( 482.0294221336 1831.3447363727 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+( 507.0255143423 1830.9025795895 373 ) ( 468.0316104968 1831.5923441713 373 ) ( 506.901710443 1823.9036737711 373 ) common/lights_5 29.0908203125 21.3333435059 90 0.171875 1.21875 0 0 0
+( 521.0940710644 1834.6543465442 267 ) ( 521.0940710644 1834.6543465442 378 ) ( 482.1001672189 1835.3441111261 267 ) tobruk_wall_sd/tobruk_wall_base1 98 2 0 0.5 0.5 0 0 0
+( 521.0233259791 1830.6549717908 267 ) ( 520.8995220797 1823.6560659725 267 ) ( 521.0233259791 1830.6549717908 378 ) tobruk_wall_sd/tobruk_wall_base1 0 2 0 0.5 0.5 0 0 0
+}
 }
 // entity 1
 {
@@ -11814,71 +11868,59 @@ tc_floor/concrete5
 // entity 119
 {
 "classname" "light"
-"origin" "336.000000 1528.000000 376.000000"
-"light" "80"
-}
-// entity 120
-{
-"classname" "light"
-"origin" "328.000000 1368.000000 352.000000"
-"light" "80"
-}
-// entity 121
-{
-"classname" "light"
 "origin" "2011 -84 888"
 "light" "2234.66"
 "_sun" "1"
 }
-// entity 122
+// entity 120
 {
 "classname" "light"
 "origin" "-48.000000 1184.000000 416.000000"
 "light" "100"
 }
-// entity 123
+// entity 121
 {
 "classname" "light"
 "origin" "-56.000000 2112.000000 272.000000"
 "light" "100"
 }
-// entity 124
+// entity 122
 {
 "classname" "light"
 "origin" "-176.000000 -488.000000 272.000000"
 "light" "100"
 }
-// entity 125
+// entity 123
 {
 "classname" "light"
 "origin" "-56.000000 488.000000 352.000000"
 "light" "100"
 }
-// entity 126
+// entity 124
 {
 "classname" "light"
 "origin" "-280.000000 -232.000000 192.000000"
 "light" "80"
 }
-// entity 127
+// entity 125
 {
 "classname" "light"
 "origin" "-216.000000 2032.000000 296.000000"
 "light" "80"
 }
-// entity 128
+// entity 126
 {
 "classname" "light"
 "origin" "-208 2480 432"
 "light" "217.992"
 }
-// entity 129
+// entity 127
 {
 "classname" "light"
 "origin" "2240.000000 2640.000000 280.000000"
 "light" "80"
 }
-// entity 130
+// entity 128
 {
 "classname" "light"
 "origin" "1531.37 2421.62 224.5"
@@ -11886,19 +11928,19 @@ tc_floor/concrete5
 "spawnflags" "2"
 "target" "info_null1"
 }
-// entity 131
+// entity 129
 {
 "classname" "light"
 "origin" "424 2384 176"
 "light" "181.509"
 }
-// entity 132
+// entity 130
 {
 "classname" "light"
 "origin" "864 560 144"
 "light" "124.316"
 }
-// entity 133
+// entity 131
 {
 "classname" "func_door"
 "lip" "20"
@@ -11915,7 +11957,7 @@ tc_floor/concrete5
 ( 494 2596 -173 ) ( 308 2596 144 ) ( 308 2596 -173 ) factory_sd/metal_wall1 179.7086791992 17.0666713715 -90 0.58984375 0.52734375 0 0 0
 }
 }
-// entity 134
+// entity 132
 {
 "classname" "func_door_rotating"
 "spawnflags" "16"
@@ -11938,7 +11980,7 @@ tc_floor/concrete5
 ( 548 950 20 ) ( 548 951 20 ) ( 548 950 131 ) cetape/office-door-white 235.984375 92.2522583008 0 0.0042372881 0.216796875 0 0 0
 }
 }
-// entity 135
+// entity 133
 {
 "classname" "func_door_rotating"
 "spawnflags" "16"
@@ -11961,168 +12003,168 @@ tc_floor/concrete5
 ( 781 950 129 ) ( 781 951 18 ) ( 781 950 18 ) cetape/office-door-white -0 88.4364013672 0 0.0042372881 0.2148437351 0 0 0
 }
 }
-// entity 136
+// entity 134
 {
 "classname" "light"
 "origin" "274 880 128"
 "light" "160.267"
 }
-// entity 137
+// entity 135
 {
 "classname" "light"
 "origin" "3432.000000 2904.000000 384.000000"
 "light" "100"
 }
-// entity 138
+// entity 136
 {
 "classname" "info_player_start"
 "origin" "-394.000000 2476.000000 37.000000"
 }
-// entity 139
+// entity 137
 {
 "classname" "info_player_start"
 "origin" "3167.000000 -240.000000 37.000000"
 "angle" "180.000000"
 }
-// entity 140
+// entity 138
 {
 "classname" "info_player_deathmatch"
 "origin" "3507.000000 3245.000000 37.000000"
 "angle" "-90.000000"
 }
-// entity 141
+// entity 139
 {
 "classname" "info_player_start"
 "origin" "3043.000000 -505.000000 37.000000"
 "angle" "90.000000"
 }
-// entity 142
+// entity 140
 {
 "classname" "info_player_start"
 "origin" "3315.000000 3245.000000 37.000000"
 "angle" "-90.000000"
 }
-// entity 143
+// entity 141
 {
 "classname" "info_player_deathmatch"
 "origin" "796.000000 2042.000000 37.000000"
 "angle" "-90.000000"
 }
-// entity 144
+// entity 142
 {
 "classname" "info_player_deathmatch"
 "origin" "-387.000000 2544.000000 37.000000"
 "angle" "-90.000000"
 }
-// entity 145
+// entity 143
 {
 "classname" "info_player_deathmatch"
 "origin" "197.000000 1680.000000 240.000000"
 "angle" "-90.000000"
 }
-// entity 146
+// entity 144
 {
 "classname" "team_CTF_bluespawn"
 "origin" "441.000000 1578.000000 239.000000"
 "angle" "-90.000000"
 }
-// entity 147
+// entity 145
 {
 "classname" "misc_turret"
 "origin" "-256.000000 1000.000000 272.000000"
 }
-// entity 148
+// entity 146
 {
 "classname" "item_health_large"
 "origin" "-224.000000 664.000000 232.000000"
 }
-// entity 149
+// entity 147
 {
 "classname" "item_armor_body"
 "origin" "1632.000000 120.000000 40.000000"
 }
-// entity 150
+// entity 148
 {
 "classname" "item_armor_body"
 "origin" "440.000000 336.000000 40.000000"
 }
-// entity 151
+// entity 149
 {
 "classname" "item_botroam"
 "origin" "3368.000000 -64.000000 176.000000"
 "angle" "-180.000000"
 }
-// entity 152
+// entity 150
 {
 "classname" "item_botroam"
 "origin" "496.000000 1680.000000 448.000000"
 }
-// entity 153
+// entity 151
 {
 "classname" "item_armor_body"
 "origin" "1664.000000 3160.000000 56.000000"
 }
-// entity 154
+// entity 152
 {
 "classname" "item_health_large"
 "origin" "2488.000000 1920.000000 96.000000"
 }
-// entity 155
+// entity 153
 {
 "classname" "item_armor_body"
 "origin" "1088.000000 1608.000000 40.000000"
 }
-// entity 156
+// entity 154
 {
 "classname" "item_health_large"
 "origin" "728.000000 2064.000000 40.000000"
 }
-// entity 157
+// entity 155
 {
 "classname" "item_health_large"
 "origin" "256.000000 1496.000000 40.000000"
 }
-// entity 158
+// entity 156
 {
 "classname" "item_armor_body"
 "origin" "640.000000 1408.000000 296.000000"
 }
-// entity 159
+// entity 157
 {
 "classname" "item_botroam"
 "origin" "568.000000 544.000000 200.000000"
 }
-// entity 160
+// entity 158
 {
 "classname" "item_health_large"
 "origin" "1632.000000 928.000000 56.000000"
 }
-// entity 161
+// entity 159
 {
 "classname" "item_armor_body"
 "origin" "232.000000 896.000000 56.000000"
 }
-// entity 162
+// entity 160
 {
 "classname" "item_health_large"
 "origin" "368.000000 792.000000 56.000000"
 }
-// entity 163
+// entity 161
 {
 "classname" "item_armor_body"
 "origin" "752.000000 1040.000000 56.000000"
 }
-// entity 164
+// entity 162
 {
 "classname" "item_health_large"
 "origin" "-336.000000 1792.000000 128.000000"
 }
-// entity 165
+// entity 163
 {
 "classname" "item_armor_body"
 "origin" "-336.000000 1856.000000 128.000000"
 }
-// entity 166
+// entity 164
 {
 "classname" "target_speaker"
 "origin" "-139.000000 1552.000000 72.000000"
@@ -12131,7 +12173,7 @@ tc_floor/concrete5
 "angle" "-180.000000"
 "target" "misc_vis_dummy_multiple6"
 }
-// entity 167
+// entity 165
 {
 "classname" "target_speaker"
 "origin" "-405.000000 -456.000000 72.000000"
@@ -12140,48 +12182,48 @@ tc_floor/concrete5
 "angle" "0.000009"
 "target" "misc_vis_dummy_multiple3"
 }
-// entity 168
+// entity 166
 {
 "classname" "info_player_deathmatch"
 "origin" "2472.000000 1920.000000 104.000000"
 "angle" "180.000000"
 }
-// entity 169
+// entity 167
 {
 "classname" "info_player_deathmatch"
 "origin" "1656.000000 3248.000000 48.000000"
 "angle" "-90.000000"
 }
-// entity 170
+// entity 168
 {
 "classname" "info_player_deathmatch"
 "origin" "2744.000000 760.000000 48.000000"
 "angle" "180.000000"
 }
-// entity 171
+// entity 169
 {
 "classname" "info_player_deathmatch"
 "origin" "528.000000 472.000000 48.000000"
 }
-// entity 172
+// entity 170
 {
 "classname" "light"
 "origin" "1278 946 127"
 "light" "96.3105"
 }
-// entity 173
+// entity 171
 {
 "classname" "light"
 "origin" "1435 946 128"
 "light" "120.613"
 }
-// entity 174
+// entity 172
 {
 "classname" "light"
 "origin" "1165 783.5 128"
 "light" "90.6419"
 }
-// entity 175
+// entity 173
 {
 "classname" "target_speaker"
 "origin" "85.000000 789.000000 25.000000"
@@ -12191,7 +12233,7 @@ tc_floor/concrete5
 "targetname" "officespeaker"
 "volume" "355"
 }
-// entity 176
+// entity 174
 {
 "classname" "trigger_objective_info"
 "track" "Side Hallway"
@@ -12205,13 +12247,13 @@ tc_floor/concrete5
 ( 1179.2164306641 142.8595428467 59 ) ( 1175.7302246094 103.0117492676 59 ) ( 1179.2164306641 142.8595428467 131 ) cetape/office-door-white 234.4311523438 92.2522583008 0 -0.2189728916 0.216796875 0 0 0
 }
 }
-// entity 177
+// entity 175
 {
 "classname" "misc_vis_dummy_multiple"
 "origin" "1224 765 56"
 "targetname" "misc_vis_dummy_multiple1"
 }
-// entity 178
+// entity 176
 {
 "classname" "target_speaker"
 "origin" "-112 535 72"
@@ -12220,56 +12262,56 @@ tc_floor/concrete5
 "angle" "-90.3948"
 "target" "misc_vis_dummy_multiple2"
 }
-// entity 179
+// entity 177
 {
 "classname" "misc_vis_dummy_multiple"
 "origin" "-112.000000 515.000000 72.000000"
 "angle" "90.000008"
 "targetname" "misc_vis_dummy_multiple2"
 }
-// entity 180
+// entity 178
 {
 "classname" "misc_vis_dummy_multiple"
 "origin" "-163 1552 72"
 "angle" "0.749171"
 "targetname" "misc_vis_dummy_multiple6"
 }
-// entity 181
+// entity 179
 {
 "classname" "misc_vis_dummy_multiple"
 "origin" "-377 -456 72"
 "angle" "179.914"
 "targetname" "misc_vis_dummy_multiple3"
 }
-// entity 182
+// entity 180
 {
 "classname" "misc_vis_dummy_multiple"
 "origin" "113 789 25"
 "angle" "-179.924"
 "targetname" "misc_vis_dummy_multiple4"
 }
-// entity 183
+// entity 181
 {
 "classname" "misc_vis_dummy_multiple"
 "origin" "625 661 57"
 "angle" "90.7493"
 "targetname" "misc_vis_dummy_multiple5"
 }
-// entity 184
+// entity 182
 {
 "classname" "misc_vis_dummy_multiple"
 "origin" "413 1769 72"
 "angle" "-179.619"
 "targetname" "misc_vis_dummy_multiple7"
 }
-// entity 185
+// entity 183
 {
 "classname" "misc_vis_dummy_multiple"
 "origin" "24 218 72"
 "angle" "89.9333"
 "targetname" "misc_vis_dummy_multiple8"
 }
-// entity 186
+// entity 184
 {
 "classname" "func_button"
 "target" "faucet"
@@ -12283,298 +12325,298 @@ tc_floor/concrete5
 ( 619 686 50 ) ( 619 687 50 ) ( 619 686 62 ) colombia/crate3 0 0 0 0.5 0.5 0 0 0
 }
 }
-// entity 187
+// entity 185
 {
 "classname" "light"
 "origin" "384 880 127"
 "light" "160.267"
 }
-// entity 188
+// entity 186
 {
 "classname" "light"
 "origin" "384 758 127"
 "light" "160.267"
 }
-// entity 189
+// entity 187
 {
 "classname" "light"
 "origin" "274 758 128"
 "light" "160.267"
 }
-// entity 190
+// entity 188
 {
 "classname" "light"
 "origin" "178 758 129"
 "light" "171.734"
 }
-// entity 191
+// entity 189
 {
 "classname" "light"
 "origin" "435 980 127"
 "light" "160.267"
 }
-// entity 192
+// entity 190
 {
 "classname" "light"
 "origin" "312 980 127"
 "light" "160.267"
 }
-// entity 193
+// entity 191
 {
 "classname" "lightJunior"
 "origin" "384 880 102"
 "light" "300.642"
 }
-// entity 194
+// entity 192
 {
 "classname" "light"
 "origin" "576 816 124"
 "light" "185.219"
 }
-// entity 195
+// entity 193
 {
 "classname" "lightJunior"
 "origin" "576 816 99"
 "light" "300.642"
 }
-// entity 196
+// entity 194
 {
 "classname" "light"
 "origin" "725 817 124"
 "light" "185.219"
 }
-// entity 197
+// entity 195
 {
 "classname" "lightJunior"
 "origin" "725 817 99"
 "light" "300.642"
 }
-// entity 198
+// entity 196
 {
 "classname" "light"
 "origin" "726 584 124"
 "light" "185.219"
 }
-// entity 199
+// entity 197
 {
 "classname" "lightJunior"
 "origin" "726 584 99"
 "light" "300.642"
 }
-// entity 200
+// entity 198
 {
 "classname" "light"
 "origin" "559 625 124"
 "light" "185.219"
 }
-// entity 201
+// entity 199
 {
 "classname" "lightJunior"
 "origin" "559 625 99"
 "light" "300.642"
 }
-// entity 202
+// entity 200
 {
 "classname" "light"
 "origin" "726 303 124"
 "light" "185.219"
 }
-// entity 203
+// entity 201
 {
 "classname" "lightJunior"
 "origin" "726 303 99"
 "light" "300.642"
 }
-// entity 204
+// entity 202
 {
 "classname" "light"
 "origin" "513 303 124"
 "light" "195.123"
 }
-// entity 205
+// entity 203
 {
 "classname" "lightJunior"
 "origin" "513 303 99"
 "light" "300.642"
 }
-// entity 206
+// entity 204
 {
 "classname" "light"
 "origin" "129 303 124"
 "light" "189.58"
 }
-// entity 207
+// entity 205
 {
 "classname" "lightJunior"
 "origin" "129 303 99"
 "light" "300.642"
 }
-// entity 208
+// entity 206
 {
 "classname" "light"
 "origin" "129 98 124"
 "light" "192.759"
 }
-// entity 209
+// entity 207
 {
 "classname" "lightJunior"
 "origin" "129 98 99"
 "light" "300.642"
 }
-// entity 210
+// entity 208
 {
 "classname" "light"
 "origin" "513 98 124"
 "light" "191.699"
 }
-// entity 211
+// entity 209
 {
 "classname" "lightJunior"
 "origin" "513 98 99"
 "light" "300.642"
 }
-// entity 212
+// entity 210
 {
 "classname" "light"
 "origin" "319 98 124"
 "light" "191.699"
 }
-// entity 213
+// entity 211
 {
 "classname" "lightJunior"
 "origin" "319 98 99"
 "light" "300.642"
 }
-// entity 214
+// entity 212
 {
 "classname" "light"
 "origin" "319 303 124"
 "light" "189.58"
 }
-// entity 215
+// entity 213
 {
 "classname" "lightJunior"
 "origin" "319 303 99"
 "light" "300.642"
 }
-// entity 216
+// entity 214
 {
 "classname" "lightJunior"
 "origin" "1531.38 2421.62 196.875"
 "light" "322.327"
 }
-// entity 217
+// entity 215
 {
 "classname" "info_null"
 "origin" "1531 2406 111"
 "targetname" "info_null1"
 }
-// entity 218
+// entity 216
 {
 "classname" "light"
 "origin" "1535 1678 124"
 "light" "202.583"
 }
-// entity 219
+// entity 217
 {
 "classname" "lightJunior"
 "origin" "1535 1678 99"
 "light" "300.642"
 }
-// entity 220
+// entity 218
 {
 "classname" "light"
 "origin" "1093 1607 124"
 "light" "185.219"
 }
-// entity 221
+// entity 219
 {
 "classname" "lightJunior"
 "origin" "1093 1607 99"
 "light" "300.642"
 }
-// entity 222
+// entity 220
 {
 "classname" "light"
 "origin" "812 1738 124"
 "light" "190.54"
 }
-// entity 223
+// entity 221
 {
 "classname" "lightJunior"
 "origin" "812 1738 99"
 "light" "300.642"
 }
-// entity 224
+// entity 222
 {
 "classname" "light"
 "origin" "724 1606 124"
 "light" "199.126"
 }
-// entity 225
+// entity 223
 {
 "classname" "lightJunior"
 "origin" "724 1606 99"
 "light" "300.642"
 }
-// entity 226
+// entity 224
 {
 "classname" "light"
 "origin" "1151 2048 124"
 "light" "185.219"
 }
-// entity 227
+// entity 225
 {
 "classname" "lightJunior"
 "origin" "1151 2048 99"
 "light" "300.642"
 }
-// entity 228
+// entity 226
 {
 "classname" "light"
 "origin" "1513 2048 124"
 "light" "185.219"
 }
-// entity 229
+// entity 227
 {
 "classname" "lightJunior"
 "origin" "1513 2048 99"
 "light" "300.642"
 }
-// entity 230
+// entity 228
 {
 "classname" "light"
 "origin" "1359 1678 124"
 "light" "196.096"
 }
-// entity 231
+// entity 229
 {
 "classname" "lightJunior"
 "origin" "1359 1678 99"
 "light" "300.642"
 }
-// entity 232
+// entity 230
 {
 "classname" "light"
 "origin" "2011 2268 888"
 "light" "2200.53"
 "_sun" "1"
 }
-// entity 233
+// entity 231
 {
 "classname" "light"
 "origin" "-122 -65 888"
 "light" "2234.66"
 "_sun" "1"
 }
-// entity 234
+// entity 232
 {
 "classname" "light"
 "origin" "-277 2268 888"
 "light" "2200.53"
 "_sun" "1"
 }
-// entity 235
+// entity 233
 {
 "classname" "func_invisible_user"
 // brush 0
@@ -12587,7 +12629,7 @@ tc_floor/concrete5
 ( 81 764 17 ) ( 81 778 17 ) ( 81 764 42 ) alpha/ladder 0 0 0 0.5 0.5 0 0 0
 }
 }
-// entity 236
+// entity 234
 {
 "classname" "trigger_multiple"
 "cursorhint" "HINT_ACTIVATE"
@@ -12602,207 +12644,309 @@ tc_floor/concrete5
 ( 81 772 21 ) ( 81 778 21 ) ( 81 772 46 ) common/trigger 0 0 0 0.5 0.5 0 0 0
 }
 }
-// entity 237
+// entity 235
 {
 "classname" "light"
 "origin" "863.008 1605.99 124"
 "light" "199.126"
 }
-// entity 238
+// entity 236
 {
 "classname" "lightJunior"
 "origin" "863.008 1605.99 99"
 "light" "300.642"
 }
-// entity 239
+// entity 237
 {
 "classname" "light"
 "origin" "1006.01 1739.99 124"
 "light" "199.126"
 }
-// entity 240
+// entity 238
 {
 "classname" "lightJunior"
 "origin" "1006.01 1739.99 99"
 "light" "300.642"
 }
-// entity 241
+// entity 239
 {
 "classname" "light"
 "origin" "1239.01 1738.99 124"
 "light" "199.126"
 }
-// entity 242
+// entity 240
 {
 "classname" "lightJunior"
 "origin" "1239.01 1738.99 99"
 "light" "300.642"
 }
-// entity 243
+// entity 241
 {
 "classname" "light"
 "origin" "1596.01 1895.99 124"
 "light" "199.126"
 }
-// entity 244
+// entity 242
 {
 "classname" "lightJunior"
 "origin" "1596.01 1895.99 99"
 "light" "300.642"
 }
-// entity 245
+// entity 243
 {
 "classname" "light"
 "origin" "1364.01 1896.99 124"
 "light" "199.126"
 }
-// entity 246
+// entity 244
 {
 "classname" "lightJunior"
 "origin" "1364.01 1896.99 99"
 "light" "300.642"
 }
-// entity 247
+// entity 245
 {
 "classname" "light"
 "origin" "1133.01 1896.99 124"
 "light" "199.126"
 }
-// entity 248
+// entity 246
 {
 "classname" "lightJunior"
 "origin" "1133.01 1896.99 99"
 "light" "300.642"
 }
-// entity 249
+// entity 247
 {
 "classname" "light"
 "origin" "935.008 1896.99 124"
 "light" "199.126"
 }
-// entity 250
+// entity 248
 {
 "classname" "lightJunior"
 "origin" "935.008 1896.99 99"
 "light" "300.642"
 }
-// entity 251
+// entity 249
 {
 "classname" "light"
 "origin" "733.008 1895.99 124"
 "light" "199.126"
 }
-// entity 252
+// entity 250
 {
 "classname" "lightJunior"
 "origin" "733.008 1895.99 99"
 "light" "300.642"
 }
-// entity 253
+// entity 251
 {
 "classname" "light"
 "origin" "501.008 1893.99 185"
 "light" "199.126"
 }
-// entity 254
+// entity 252
 {
 "classname" "lightJunior"
 "origin" "501.008 1893.99 160"
 "light" "300.642"
 }
-// entity 255
+// entity 253
 {
 "classname" "light"
 "origin" "343.008 1892.99 185"
 "light" "199.126"
 }
-// entity 256
+// entity 254
 {
 "classname" "lightJunior"
 "origin" "343.008 1892.99 160"
 "light" "300.642"
 }
-// entity 257
+// entity 255
 {
 "classname" "light"
 "origin" "181.008 1891.99 185"
 "light" "199.126"
 }
-// entity 258
+// entity 256
 {
 "classname" "lightJunior"
 "origin" "181.008 1891.99 160"
 "light" "300.642"
 }
-// entity 259
+// entity 257
 {
 "classname" "light"
 "origin" "564.995 1749 185"
 "light" "199.126"
 }
-// entity 260
+// entity 258
 {
 "classname" "lightJunior"
 "origin" "564.995 1749 160"
 "light" "300.642"
 }
-// entity 261
+// entity 259
 {
 "classname" "light"
 "origin" "565.995 1579 185"
 "light" "199.126"
 }
-// entity 262
+// entity 260
 {
 "classname" "lightJunior"
 "origin" "565.995 1579 160"
 "light" "300.642"
 }
-// entity 263
+// entity 261
 {
 "classname" "light"
 "origin" "565.995 1412 185"
 "light" "199.126"
 }
-// entity 264
+// entity 262
 {
 "classname" "lightJunior"
 "origin" "565.995 1412 160"
 "light" "300.642"
 }
-// entity 265
+// entity 263
 {
 "classname" "light"
 "origin" "566.995 1241 185"
 "light" "199.126"
 }
-// entity 266
+// entity 264
 {
 "classname" "lightJunior"
 "origin" "566.995 1241 160"
 "light" "300.642"
 }
-// entity 267
+// entity 265
 {
 "classname" "light"
 "origin" "447.002 1186 185"
 "light" "199.126"
 }
-// entity 268
+// entity 266
 {
 "classname" "lightJunior"
 "origin" "447.002 1186 160"
 "light" "300.642"
 }
-// entity 269
+// entity 267
 {
 "classname" "light"
 "origin" "296.002 1186 185"
 "light" "199.126"
 }
-// entity 270
+// entity 268
 {
 "classname" "lightJunior"
 "origin" "296.002 1186 160"
+"light" "300.642"
+}
+// entity 269
+{
+"classname" "light"
+"origin" "296.007 1187.01 363"
+"light" "199.126"
+}
+// entity 270
+{
+"classname" "lightJunior"
+"origin" "296.007 1187.01 338"
+"light" "300.642"
+}
+// entity 271
+{
+"classname" "light"
+"origin" "501.007 1187.01 363"
+"light" "199.126"
+}
+// entity 272
+{
+"classname" "lightJunior"
+"origin" "501.007 1187.01 338"
+"light" "300.642"
+}
+// entity 273
+{
+"classname" "light"
+"origin" "501.007 1348.01 363"
+"light" "199.126"
+}
+// entity 274
+{
+"classname" "lightJunior"
+"origin" "501.007 1348.01 338"
+"light" "300.642"
+}
+// entity 275
+{
+"classname" "light"
+"origin" "501.007 1509.01 363"
+"light" "199.126"
+}
+// entity 276
+{
+"classname" "lightJunior"
+"origin" "501.007 1509.01 338"
+"light" "300.642"
+}
+// entity 277
+{
+"classname" "light"
+"origin" "501.007 1670.01 363"
+"light" "199.126"
+}
+// entity 278
+{
+"classname" "lightJunior"
+"origin" "501.007 1670.01 338"
+"light" "300.642"
+}
+// entity 279
+{
+"classname" "lightJunior"
+"origin" "501.007 1830.01 338"
+"light" "300.642"
+}
+// entity 280
+{
+"classname" "light"
+"origin" "290.007 1873.01 363"
+"light" "199.126"
+}
+// entity 281
+{
+"classname" "lightJunior"
+"origin" "290.007 1873.01 338"
+"light" "300.642"
+}
+// entity 282
+{
+"classname" "light"
+"origin" "501.007 1830.01 363"
+"light" "199.126"
+}
+// entity 283
+{
+"classname" "lightJunior"
+"origin" "292.007 1699.01 338"
+"light" "300.642"
+}
+// entity 284
+{
+"classname" "light"
+"origin" "292.007 1699.01 363"
+"light" "199.126"
+}
+// entity 285
+{
+"classname" "lightJunior"
+"origin" "292.007 1699.01 338"
 "light" "300.642"
 }
