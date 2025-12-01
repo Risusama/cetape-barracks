@@ -13551,6 +13551,8 @@ tc_floor/concrete5
 // entity 321
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1621 406 114 ) ( 1621 385 114 ) ( 1546 406 114 ) gamejunky_glass/glass 84 26 0 0.5 0.5 0 0 0
@@ -13564,6 +13566,8 @@ tc_floor/concrete5
 // entity 322
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1456 407 114 ) ( 1456 386 114 ) ( 1381 407 114 ) gamejunky_glass/glass 30 28 0 0.5 0.5 0 0 0
@@ -13577,6 +13581,8 @@ tc_floor/concrete5
 // entity 323
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1295 407 114 ) ( 1295 386 114 ) ( 1220 407 114 ) gamejunky_glass/glass 96 28 0 0.5 0.5 0 0 0
@@ -13590,6 +13596,8 @@ tc_floor/concrete5
 // entity 324
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1146 406 114 ) ( 1146 385 114 ) ( 1071 406 114 ) gamejunky_glass/glass 10 26 0 0.5 0.5 0 0 0
@@ -13603,6 +13611,8 @@ tc_floor/concrete5
 // entity 325
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 826 451 121 ) ( 826 416 121 ) ( 825 451 121 ) gamejunky_glass/glass 32 110 0 0.5 0.5 0 0 0
@@ -13616,6 +13626,8 @@ tc_floor/concrete5
 // entity 326
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 825 656 121 ) ( 825 621 121 ) ( 824 656 121 ) gamejunky_glass/glass 34 8 0 0.5 0.5 0 0 0
@@ -13629,6 +13641,8 @@ tc_floor/concrete5
 // entity 327
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 925 714 114 ) ( 925 693 114 ) ( 850 714 114 ) gamejunky_glass/glass 68 1.9999694824 0 0.5 0.5 0 0 0
@@ -13642,6 +13656,8 @@ tc_floor/concrete5
 // entity 328
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1047 697 114 ) ( 1047 676 114 ) ( 972 697 114 ) gamejunky_glass/glass 80 95.9999694824 0 0.5 0.5 0 0 0
@@ -13655,6 +13671,8 @@ tc_floor/concrete5
 // entity 329
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1171 697 114 ) ( 1171 676 114 ) ( 1096 697 114 ) gamejunky_glass/glass 88 95.9999694824 0 0.5 0.5 0 0 0
@@ -13668,6 +13686,8 @@ tc_floor/concrete5
 // entity 330
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1291 697 114 ) ( 1291 676 114 ) ( 1216 697 114 ) gamejunky_glass/glass 104 95.9999694824 0 0.5 0.5 0 0 0
@@ -13681,6 +13701,8 @@ tc_floor/concrete5
 // entity 331
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1417 697 114 ) ( 1417 676 114 ) ( 1342 697 114 ) gamejunky_glass/glass 108 95.9999694824 0 0.5 0.5 0 0 0
@@ -13694,6 +13716,8 @@ tc_floor/concrete5
 // entity 332
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1541 697 114 ) ( 1541 676 114 ) ( 1466 697 114 ) gamejunky_glass/glass 116 95.9999694824 0 0.5 0.5 0 0 0
@@ -13707,6 +13731,8 @@ tc_floor/concrete5
 // entity 333
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1662 697 114 ) ( 1662 676 114 ) ( 1587 697 114 ) gamejunky_glass/glass 2 95.9999694824 0 0.5 0.5 0 0 0
@@ -13720,6 +13746,8 @@ tc_floor/concrete5
 // entity 334
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1630 1093 114 ) ( 1630 1072 114 ) ( 1555 1093 114 ) gamejunky_glass/glass 66 120 0 0.5 0.5 0 0 0
@@ -13733,6 +13761,8 @@ tc_floor/concrete5
 // entity 335
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1465 1095 114 ) ( 1465 1074 114 ) ( 1390 1095 114 ) gamejunky_glass/glass 12 124 0 0.5 0.5 0 0 0
@@ -13746,6 +13776,8 @@ tc_floor/concrete5
 // entity 336
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1304 1095 114 ) ( 1304 1074 114 ) ( 1229 1095 114 ) gamejunky_glass/glass 78 124 0 0.5 0.5 0 0 0
@@ -13759,6 +13791,8 @@ tc_floor/concrete5
 // entity 337
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1155 1093 114 ) ( 1155 1072 114 ) ( 1080 1093 114 ) gamejunky_glass/glass 120 120 0 0.5 0.5 0 0 0
@@ -13772,6 +13806,8 @@ tc_floor/concrete5
 // entity 338
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 991 1096 114 ) ( 991 1075 114 ) ( 916 1096 114 ) gamejunky_glass/glass 64 126 0 0.5 0.5 0 0 0
@@ -13785,6 +13821,8 @@ tc_floor/concrete5
 // entity 339
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 818 1111 114 ) ( 818 1090 114 ) ( 743 1111 114 ) gamejunky_glass/glass 26 28 0 0.5 0.5 0 0 0
@@ -13798,6 +13836,8 @@ tc_floor/concrete5
 // entity 340
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 650.375 1141 330 ) ( 629.375 1141 330 ) ( 650.375 1216 330 ) gamejunky_glass/glass 104 2.75 -90 0.5 0.5 0 0 0
@@ -13811,6 +13851,8 @@ tc_floor/concrete5
 // entity 341
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 651.625 1324.5 330 ) ( 630.625 1324.5 330 ) ( 651.625 1399.5 330 ) gamejunky_glass/glass 87 5.25 -90 0.5 0.5 0 0 0
@@ -13824,6 +13866,8 @@ tc_floor/concrete5
 // entity 342
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 650.75 1420.625 330 ) ( 629.75 1420.625 330 ) ( 650.75 1495.625 330 ) gamejunky_glass/glass 23.25 3.5 -90 0.5 0.5 0 0 0
@@ -13837,6 +13881,8 @@ tc_floor/concrete5
 // entity 343
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 650.75 1525 330 ) ( 629.75 1525 330 ) ( 650.75 1600 330 ) gamejunky_glass/glass 104 3.5 -90 0.5 0.5 0 0 0
@@ -13850,6 +13896,8 @@ tc_floor/concrete5
 // entity 344
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 651.625 1321.5 122 ) ( 630.625 1321.5 122 ) ( 651.625 1396.5 122 ) gamejunky_glass/glass 81 5.25 -90 0.5 0.5 0 0 0
@@ -13863,6 +13911,8 @@ tc_floor/concrete5
 // entity 345
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 650.75 1417.625 122 ) ( 629.75 1417.625 122 ) ( 650.75 1492.625 122 ) gamejunky_glass/glass 17.25 3.5 -90 0.5 0.5 0 0 0
@@ -13876,6 +13926,8 @@ tc_floor/concrete5
 // entity 346
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 768 1534 114 ) ( 768 1530 114 ) ( 700 1534 114 ) gamejunky_glass/glass 48 94 0 0.5 0.5 0 0 0
@@ -13889,6 +13941,8 @@ tc_floor/concrete5
 // entity 347
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 902 1534 114 ) ( 902 1530 114 ) ( 834 1534 114 ) gamejunky_glass/glass 36 94 0 0.5 0.5 0 0 0
@@ -13902,6 +13956,8 @@ tc_floor/concrete5
 // entity 348
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1045 1534 114 ) ( 1045 1530 114 ) ( 977 1534 114 ) gamejunky_glass/glass 6 94 0 0.5 0.5 0 0 0
@@ -13915,6 +13971,8 @@ tc_floor/concrete5
 // entity 349
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1182 1534 114 ) ( 1182 1530 114 ) ( 1114 1534 114 ) gamejunky_glass/glass 244 94 0 0.5 0.5 0 0 0
@@ -13928,6 +13986,8 @@ tc_floor/concrete5
 // entity 350
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1339 1535 114 ) ( 1339 1531 114 ) ( 1271 1535 114 ) gamejunky_glass/glass 186 96 0 0.5 0.5 0 0 0
@@ -13941,6 +14001,8 @@ tc_floor/concrete5
 // entity 351
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1451 1534 114 ) ( 1451 1530 114 ) ( 1383 1534 114 ) gamejunky_glass/glass 218 94 0 0.5 0.5 0 0 0
@@ -13954,6 +14016,8 @@ tc_floor/concrete5
 // entity 352
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1652 2126 114 ) ( 1652 2122 114 ) ( 1584 2126 114 ) gamejunky_glass/glass 72 254 0 0.5 0.5 0 0 0
@@ -13967,6 +14031,8 @@ tc_floor/concrete5
 // entity 353
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1554 2127 114 ) ( 1554 2123 114 ) ( 1486 2127 114 ) gamejunky_glass/glass 12 0 0 0.5 0.5 0 0 0
@@ -13980,6 +14046,8 @@ tc_floor/concrete5
 // entity 354
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 1444 2126 114 ) ( 1444 2122 114 ) ( 1376 2126 114 ) gamejunky_glass/glass 232 254 0 0.5 0.5 0 0 0
@@ -13993,6 +14061,8 @@ tc_floor/concrete5
 // entity 355
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 800 2127 114 ) ( 800 2123 114 ) ( 732 2127 114 ) gamejunky_glass/glass 112 0 0 0.5 0.5 0 0 0
@@ -14033,6 +14103,8 @@ tc_floor/concrete5
 // entity 356
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( -122 1917 265 ) ( -122 1896 265 ) ( -203 1917 265 ) gamejunky_glass/glass 30 236 0 0.5 0.5 0 0 0
@@ -14046,6 +14118,8 @@ tc_floor/concrete5
 // entity 357
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( -374 816 286 ) ( -374 776 286 ) ( -414 816 286 ) gamejunky_glass/glass 28 32 0 0.5 0.5 0 0 0
@@ -14059,6 +14133,8 @@ tc_floor/concrete5
 // entity 358
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( -224 816 288 ) ( -224 776 288 ) ( -264 816 288 ) gamejunky_glass/glass 112 32 0 0.5 0.5 0 0 0
@@ -14072,6 +14148,8 @@ tc_floor/concrete5
 // entity 359
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( -364 620 288 ) ( -364 580 288 ) ( -404 620 288 ) gamejunky_glass/glass 8 24 0 0.5 0.5 0 0 0
@@ -14085,6 +14163,8 @@ tc_floor/concrete5
 // entity 360
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 639 565 232 ) ( 639 501 232 ) ( 487 565 232 ) gamejunky_glass/glass 109 74 0 0.5 0.5 0 0 0
@@ -14098,6 +14178,8 @@ tc_floor/concrete5
 // entity 361
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 787 552 232 ) ( 787 488 232 ) ( 635 552 232 ) gamejunky_glass/glass 68.9999923706 48 0 0.5 0.5 0 0 0
@@ -14111,6 +14193,8 @@ tc_floor/concrete5
 // entity 362
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 418 1100.625 330 ) ( 418 1121.625 330 ) ( 493 1100.625 330 ) gamejunky_glass/glass 66 84.75 180 0.5 0.5 0 0 0
@@ -14124,6 +14208,8 @@ tc_floor/concrete5
 // entity 363
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 316 697 114 ) ( 316 676 114 ) ( 241 697 114 ) gamejunky_glass/glass 6 31.9999694824 0 0.5 0.5 0 0 0
@@ -14137,6 +14223,8 @@ tc_floor/concrete5
 // entity 364
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 441 697 114 ) ( 441 676 114 ) ( 366 697 114 ) gamejunky_glass/glass 12 351.9999694824 0 0.5 0.5 0 0 0
@@ -14150,6 +14238,8 @@ tc_floor/concrete5
 // entity 365
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 519 655 111 ) ( 519 607 111 ) ( 480 655 111 ) gamejunky_glass/glass 89 16 0 0.5 0.5 0 0 0
@@ -14163,6 +14253,8 @@ tc_floor/concrete5
 // entity 366
 {
 "classname" "func_explosive"
+"health" "10"
+"type" "glass"
 // brush 0
 {
 ( 320 408 114 ) ( 320 387 114 ) ( 245 408 114 ) gamejunky_glass/glass 62 94 0 0.5 0.5 0 0 0
