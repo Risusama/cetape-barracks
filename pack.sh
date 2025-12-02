@@ -11,9 +11,9 @@ else
 fi
 
 if [ "$RUNARGS" = "truecombat" ]; then
-  zip -r "cetape-barracks.pk3" . -x '.git*' 'netradiant/*/*' 'pack.sh' 'maps/*.autosave.map' 'maps/*.bak' 'maps/cetape_et*'
+  zip -r "cetape-barracks.pk3" . -x '.git*' 'cetape-barracks*.pk3' 'netradiant/*/*' 'pack.sh' 'maps/*.autosave.map' 'maps/*.bak' 'maps/cetape_et*'
 elif [ "$RUNARGS" = "wolf" ]; then
-  zip -r "cetape-barracks.pk3" . -x '.git*' 'netradiant/*/*' 'pack.sh' 'maps/*.autosave.map' 'maps/*.bak' 'maps/cetape.*'
+  zip -r "cetape-barracks.pk3" . -x '.git*' 'cetape-barracks*.pk3' 'netradiant/*/*' 'pack.sh' 'maps/*.autosave.map' 'maps/*.bak' 'maps/cetape.*'
 else
   echo "Invalid argument. Exiting."
   exit
