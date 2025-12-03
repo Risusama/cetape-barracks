@@ -1,0 +1,12 @@
+////////////////
+//game_manager//
+////////////////
+game_manager
+{
+	spawn
+	{
+		wm_axis_respawntime	10
+		wm_allied_respawntime	10
+		wm_set_round_timelimit	20
+	}
+}

@@ -14148,3 +14148,8 @@
 ( 652 687 2 ) ( 652 713 2 ) ( 638 713 2 ) common/trigger 18 19 90 0.5 0.5 0 7 0
 }
 }
+// entity 358
+{
+"classname" "script_multiplayer"
+"origin" "556 1778 484"
+}
