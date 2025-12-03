@@ -4,7 +4,7 @@ levelshots/cetape_et_cc_automap
   nocompress
   nomipmaps
   {	 
-    clampmap levelshots/cetape_et_tracemap.tga
+    clampmap levelshots/cetape_et_cc.tga
     depthFunc equal
     rgbGen identity
   }	 
@@ -15,7 +15,7 @@ levelshots/cetape_et_cc_trans
   nocompress
   nomipmaps
   {
-  clampmap levelshots/cetape_et_tracemap.tga
+  clampmap levelshots/cetape_et_cc.tga
   blendfunc blend
   rgbGen identity
   alphaGen vertex
