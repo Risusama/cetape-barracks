@@ -1,0 +1,10 @@
+{
+	map	"cetape_et"
+	longname			"Cetape Industrial Barracks"
+	timelimit			20
+	axisRespawnTime		10
+	alliedRespawnTime	10
+	lmsbriefing			"^1Cetape ^3Staff ^1wish ^1you ^1all ^1a ^3Merry ^3Christmas. ^0 ~~~~ "
+	briefing			"^1Cetape ^3Staff ^1wish ^1you ^1all ^1a ^3Merry ^3Christmas. ^0 ~~~~ "  
+	type				"wolfmp"
+}

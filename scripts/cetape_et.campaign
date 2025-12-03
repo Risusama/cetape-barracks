@@ -1,0 +1,8 @@
+{
+name        "Cetape Industrial Barracks"
+shortname   "cetape_et"
+description "^1Cetape ^3Staff ^1wish ^1you ^1all ^1a ^3Merry ^3Christmas. ^0 ~~~~ "
+maps "cetape_et;"
+mapTC       374 185
+type        "wolfmp"
+}
