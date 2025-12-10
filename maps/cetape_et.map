@@ -13917,10 +13917,11 @@
 "origin" "3146 -202 628"
 "target" "limbocamera1"
 "spawnflags" "2"
+"objective" "0"
 }
 // entity 350
 {
 "classname" "info_notnull"
-"origin" "3106 -172 610"
+"origin" "2970 -70 454"
 "targetname" "limbocamera1"
 }
